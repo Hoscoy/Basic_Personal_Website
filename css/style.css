@@ -1,0 +1,64 @@
+body {
+	background: #8e9eab; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #8e9eab , #eef2f3); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #8e9eab , #eef2f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */     
+	margin-left: 25px;
+	margin-right: 25px;
+	display: block;
+}
+img {
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px; 
+	display: block;
+}
+h1{
+	font-size: 400%;
+	color: #4C4B82;
+	font-family: 'Droid Serif', serif;
+}
+p {
+	text-align: justify;
+	max-width: 1100px;
+	margin: 0 auto;
+	font-size: 1.2em;
+	padding: 10px;
+	font-family: 'Droid Serif', serif;
+}
+
+h2{
+	font-family: 'Droid Serif', serif;
+	color: #4C4B82;
+	font-weight: bolder;
+	font-size: 250%;
+}
+
+h3{
+	font-family: 'Droid Serif', serif;
+	color: #407F66;
+	font-size: 200%;
+}
+
+li {
+	text-align: left;
+	max-width: none; 
+	font-size: 1.2em;
+	font-family: 'Droid Serif', serif;
+	color: #4C4B82;
+}
+ol {
+	font-size: 1.2em;
+	font-family: 'Droid Serif', serif;
+	color: #4C4B82;
+}
+
+.first {
+	background: url("http://www.htmlcsscolor.com/preview/gallery/FFDD71.png");
+
+}
+.second{
+	background: url("http://www.htmlcsscolor.com/preview/gallery/FFDD71.png");
+}
+
+
